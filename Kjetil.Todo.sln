@@ -7,6 +7,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo.Test", "Kjetil.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo", "Kjetil.Todo\Kjetil.Todo.csproj", "{695EE1B4-D59C-45FA-BC12-2C8302A7306C}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TodoWebSite", "\\srv-octiovault\usr\kjha\My Documents\Visual Studio 2015\WebSites\TodoWebSite\", "{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{695ee1b4-d59c-45fa-bc12-2c8302a7306c}|Kjetil.Todo.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60841"
+		Debug.AspNetCompiler.PhysicalPath = "\\srv-octiovault\usr\kjha\My Documents\Visual Studio 2015\WebSites\TodoWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60841\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60841"
+		Release.AspNetCompiler.PhysicalPath = "\\srv-octiovault\usr\kjha\My Documents\Visual Studio 2015\WebSites\TodoWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60841\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60841"
+		SlnRelativePath = "\\srv-octiovault\usr\kjha\My Documents\Visual Studio 2015\WebSites\TodoWebSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +44,10 @@ Global
 		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
