@@ -1,0 +1,13 @@
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Kjetil.Todo.Test.dll.config
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Kjetil.Todo.Test.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Kjetil.Todo.Test.pdb
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\EntityFramework.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Kjetil.Todo.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\Kjetil.Todo.pdb
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\EntityFramework.xml
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\obj\Debug\Kjetil.Todo.Test.csprojResolveAssemblyReference.cache
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\obj\Debug\Kjetil.Todo.Test.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo.Test\obj\Debug\Kjetil.Todo.Test.pdb

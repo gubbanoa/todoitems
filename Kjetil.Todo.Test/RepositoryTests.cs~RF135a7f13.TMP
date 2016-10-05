@@ -1,0 +1,23 @@
+﻿using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Kjetil.Todo.Persistence;
+
+namespace Kjetil.Todo.Test
+{
+    [TestClass]
+    public class RepositoryTests
+    {
+        [TestMethod]
+        public void GetAllUsers_NoException()
+        {
+            using (var unitOfWork = new UnitOfWork(new PlutoContext()))
+            {
+                // Example1
+                var courses = unitOfWork.Courses.GetAll();
+                Assert.AreEqual("C# Basics", course.Name);
+
+
+            }
+        }
+    }
+}

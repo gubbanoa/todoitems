@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo.Test", "Kjetil.Todo.Test\Kjetil.Todo.Test.csproj", "{6C061E56-3376-4C3F-82D2-D0A8EEA7A801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo", "Kjetil.Todo\Kjetil.Todo.csproj", "{695EE1B4-D59C-45FA-BC12-2C8302A7306C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C061E56-3376-4C3F-82D2-D0A8EEA7A801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C061E56-3376-4C3F-82D2-D0A8EEA7A801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C061E56-3376-4C3F-82D2-D0A8EEA7A801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C061E56-3376-4C3F-82D2-D0A8EEA7A801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695EE1B4-D59C-45FA-BC12-2C8302A7306C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

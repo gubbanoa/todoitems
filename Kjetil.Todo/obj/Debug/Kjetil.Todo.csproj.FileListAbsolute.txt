@@ -1,0 +1,10 @@
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\Kjetil.Todo.dll.config
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\Kjetil.Todo.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\Kjetil.Todo.pdb
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\EntityFramework.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\EntityFramework.xml
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\obj\Debug\Kjetil.Todo.csprojResolveAssemblyReference.cache
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\obj\Debug\Kjetil.Todo.dll
+C:\Users\kjha\git\Kjetil.Todo\Kjetil.Todo\obj\Debug\Kjetil.Todo.pdb
