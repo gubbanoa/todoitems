@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo.Test", "Kjetil.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kjetil.Todo", "Kjetil.Todo\Kjetil.Todo.csproj", "{695EE1B4-D59C-45FA-BC12-2C8302A7306C}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TodoWebSite", "\\srv-octiovault\usr\kjha\My Documents\Visual Studio 2015\WebSites\TodoWebSite\", "{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TodoWebSite", "C:\Users\kjha\git\Kjetil.Todo\TodoWebSite\", "{5CCF2BAC-CB69-4381-A41E-9C29F148CD8D}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		ProjectReferences = "{695ee1b4-d59c-45fa-bc12-2c8302a7306c}|Kjetil.Todo.dll;"
